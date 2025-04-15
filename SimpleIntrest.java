@@ -13,6 +13,8 @@ public class SimpleIntrest{
         scan.close();
         SIntrest=(p*r*t)/100;
         System.out.println("Simple Intrest Is:" + SIntrest);
+        System.out.println("This is first Intrest " );
+        
 
     }
 }
